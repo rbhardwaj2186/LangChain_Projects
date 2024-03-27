@@ -18,6 +18,9 @@ Context Retrieval: The system retrieves the appropriate context by calculating t
 
 Re-ranking Capability: The project incorporates the re-ranking capability of the Lama model to enhance precision. This ensures that the most relevant and accurate information is retrieved.
 
+![1_KPTfB3CyLuKpg8Rfs4jaIQ](https://github.com/rbhardwaj2186/LangChain_Projects/assets/143745073/da516a3a-74a9-4aa5-aaa3-c7dbd8a39f12)
+
+
 ## Usage
 This project can be utilized by legal professionals and researchers to efficiently retrieve relevant excerpts from a vast database of legal documents. By inputting specific prompts, users can obtain precise information tailored to their needs.
 
